@@ -1,0 +1,93 @@
+﻿Servicio;Provincia;Vehiculos
+Otros;Cañar;1
+Otros;Pastaza;1
+Otros;Morona Santiago;1
+Otros;Carchi;2
+Otros;Bolivar;2
+Otros;Santa Elena;2
+Otros;Sucumbios;2
+Otros;Orellana;2
+Otros;Chimborazo;4
+Otros;Esmeraldas;4
+Otros;Loja;4
+Otros;Tungurahua;5
+Otros;Santo Domingo de los Tsachilas;6
+Otros;Los Rios;7
+Otros;El Oro;7
+Otros;Cotopaxi;8
+Otros;Azuay;12
+Otros;Manabi;13
+Estado;Galapagos;111
+Otros;Guayas;120
+Estado;Orellana;214
+Estado;Carchi;216
+Estado;Esmeraldas;225
+Estado;Napo;276
+Estado;Galapagos;325
+Estado;Bolivar;336
+Estado;Pastaza;351
+Estado;Cañar;360
+Estado;Zamora Chinchipe;388
+Estado;Morona Santiago;408
+Estado;Santa Elena;428
+Estado;Sucumbios;435
+Estado;Santo Domingo de los Tsachilas;522
+Estado;Imbabura;651
+Estado;Loja;682
+Estado;Los Rios;704
+Otros;Pichincha;751
+Estado;Tungurahua;1038
+Estado;Chimborazo;1130
+Alquiler;Napo;1135
+Estado;Manabi;1138
+Alquiler;Pastaza;1139
+Estado;El Oro;1178
+Alquiler;Morona Santiago;1412
+Alquiler;Zamora Chinchipe;1494
+Estado;Azuay;1560
+Alquiler;Orellana;2020
+Particular;Galapagos;2024
+Estado;Cotopaxi;2201
+Alquiler;Sucumbios;2708
+Alquiler;Bolivar;2938
+Estado;Guayas;3135
+Alquiler;Santa Elena;3316
+Alquiler;Carchi;3496
+Alquiler;Cañar;3698
+Alquiler;Esmeraldas;4580
+Alquiler;Loja;5593
+Alquiler;Imbabura;5837
+Alquiler;Los Rios;6997
+Alquiler;Chimborazo;7240
+Alquiler;Santo Domingo de los Tsachilas;7291
+Alquiler;Cotopaxi;7461
+Particular;Napo;7484
+Particular;Zamora Chinchipe;8591
+Particular;Pastaza;9506
+Alquiler;El Oro;10153
+Alquiler;Azuay;10627
+Alquiler;Tungurahua;10682
+Estado;Pichincha;11954
+Particular;Morona Santiago;12086
+Alquiler;Manabi;14025
+Particular;Orellana;14808
+Particular;Carchi;16608
+Particular;Bolivar;19832
+Particular;Santa Elena;24587
+Particular;Sucumbios;24782
+Alquiler;Guayas;27139
+Particular;Cañar;35486
+Alquiler;Pichincha;39589
+Particular;Esmeraldas;40339
+Particular;Imbabura;45149
+Particular;Loja;57004
+Particular;Cotopaxi;57995
+Particular;Chimborazo;61204
+Particular;Santo Domingo de los Tsachilas;72461
+Particular;Tungurahua;89746
+Particular;El Oro;100959
+Particular;Los Rios;113498
+Particular;Azuay;133530
+Particular;Manabi;183625
+Particular;Pichincha;469652
+Particular;Guayas;499514
